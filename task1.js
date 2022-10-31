@@ -1,7 +1,5 @@
 let num = 6;
 let quvvet = 0;
-let output;
-
 
 while (num >= 2) {
    num /= 2;
